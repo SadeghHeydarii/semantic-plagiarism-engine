@@ -1,0 +1,5 @@
+pipeline,precision,recall,f1
+Static MinHash+LSH,0.516534,0.237049,0.324964
+Adaptive MinHash+LSH,0.516534,0.237049,0.324964
+Standard SimHash,0.470424,0.882261,0.613649
+Hybrid SimHash (Bonus),0.459226,0.919414,0.612515

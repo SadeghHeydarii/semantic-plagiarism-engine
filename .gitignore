@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environments and editors
+.venv/
+venv/
+.vscode/
+.idea/
+
+# Raw/large datasets must not be committed
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/sample_pairs.csv
+
+# Generated temporary files
+outputs/*.json
+outputs/*_predictions.csv
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+.DS_Store

@@ -1,0 +1,1 @@
+Machine learning does not discover useful patterns in data when labels are corrupted. A model may memorize examples and fail on unseen records even when the training score appears excellent.

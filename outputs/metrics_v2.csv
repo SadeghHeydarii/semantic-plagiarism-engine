@@ -1,0 +1,4 @@
+method,precision,recall,f1,accuracy,tp,fp,tn,fn,runtime_seconds,pairs_evaluated,candidate_pairs,candidate_recall,comparison_reduction,jaccard_threshold,simhash_max_distance,cosine_threshold,num_perm,bands
+MinHash+LSH+exact-Jaccard,0.5,0.3125,0.384615,0.466667,5,5,9,11,0.141006,30,10,0.3125,0.666667,0.05,,,128,64
+Hybrid TF-IDF SimHash,0.705882,0.75,0.727273,0.7,12,5,9,4,0.076232,30,30,,0.0,,22,,,
+TF-IDF cosine (bonus),0.705882,0.75,0.727273,0.7,12,5,9,4,0.056027,30,30,,0.0,,,0.32,,

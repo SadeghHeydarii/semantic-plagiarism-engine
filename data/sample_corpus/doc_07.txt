@@ -1,0 +1,1 @@
+A secure password manager stores unique credentials in an encrypted vault. Multi-factor authentication adds another barrier when an attacker learns a password, and regular software updates reduce known vulnerabilities.

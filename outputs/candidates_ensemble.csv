@@ -1,0 +1,4 @@
+document_a,document_b,exact_jaccard,minhash_similarity,simhash_hamming,simhash_similarity,passes_jaccard_threshold,passes_simhash_threshold,ensemble_score,passes_ensemble_threshold
+doc_01,doc_02,0.473684,0.460938,15,0.765625,1,1,0.639238,1
+doc_03,doc_04,0.243243,0.257812,12,0.8125,0,1,0.793827,1
+doc_05,doc_06,0.3125,0.28125,12,0.8125,1,1,0.855963,1

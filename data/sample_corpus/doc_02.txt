@@ -1,0 +1,1 @@
+Machine learning systems discover useful patterns in data. The model is trained with examples and then predicts outcomes for previously unseen records. Careful evaluation is necessary because a strong training score does not guarantee good generalization.
